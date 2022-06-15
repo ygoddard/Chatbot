@@ -5,6 +5,4 @@ contacts_database_name: "contacts"
 debug: true
 port: 5000
 host: "0.0.0.0"
-account_sid: 'ACfc4e98d572ee1dc5774043c16674fa9e'
-auth_token: '988b77561c9e37a5f15584b3e8f774b6'
 session_dead_threshold_in_sec: 600

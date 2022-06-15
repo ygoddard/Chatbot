@@ -12,9 +12,6 @@ class Config:
     port: int
     host: str
 
-    account_sid: str
-    auth_token: str
-
     session_dead_threshold_in_sec: int
 
     def __init__(self, config_path: str):
